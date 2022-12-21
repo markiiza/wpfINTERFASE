@@ -1,0 +1,16 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\bin\Debug\trigger.exe.config
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\bin\Debug\trigger.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\bin\Debug\trigger.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\MainWindow.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\App.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger_MarkupCompile.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger_MarkupCompile.lref
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\MainWindow.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.g.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\wpf\trigger\trigger\obj\Debug\trigger.pdb

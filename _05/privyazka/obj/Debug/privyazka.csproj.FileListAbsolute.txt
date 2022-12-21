@@ -1,0 +1,16 @@
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\bin\Debug\privyazka.exe.config
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\bin\Debug\privyazka.exe
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\bin\Debug\privyazka.pdb
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\MainWindow.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\App.g.cs
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka_MarkupCompile.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka_MarkupCompile.lref
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\MainWindow.baml
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.g.resources
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.Properties.Resources.resources
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.csproj.GenerateResource.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.exe
+C:\Users\307-04\Documents\liiiiizzz\wpf\privyazka\obj\Debug\privyazka.pdb

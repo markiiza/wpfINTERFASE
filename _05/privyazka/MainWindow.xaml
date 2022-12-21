@@ -1,0 +1,15 @@
+﻿<Window x:Class="privyazka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:privyazka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox x:Name="t1" FontSize="{Binding ElementName=slider2, Path=Value}" Text="{Binding ElementName=t2, Path=Text}" />
+        <TextBox x:Name="t2" FontSize="{Binding ElementName=slider2, Path=Value}" Text="{Binding ElementName=t1, Path=Text}" />
+        <Slider x:Name="slider1" Minimum="0" Maximum="100" Value="{Binding ElementName=textbox, Path=Text,Mode=OneWay}" />
+        <Slider x:Name="slider2" Minimum="0" Maximum="100" Value="{Binding ElementName=textbox, Path=Text,Mode=TwoWay}"  />        <TextBox Background="AliceBlue" x:Name="textbox" Text="{Binding ElementName=slider2, Path=Value}"/>
+    </StackPanel>
+</Window>

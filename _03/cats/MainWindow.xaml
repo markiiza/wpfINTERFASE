@@ -1,0 +1,61 @@
+﻿<Window x:Class="zadanoeone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadanoeone"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        
+        x:Name="gridiiii">
+    <StackPanel>
+        <Menu Background="White" BorderBrush="Gray" BorderThickness="1">
+            <MenuItem Header="_Меню">
+                <MenuItem Header="_Красный" Click="red" />
+                <MenuItem Header="_Жёлтый" Click="yellow"/>
+                <MenuItem Header="_Зелёный" Click="green"/>
+                <MenuItem Header="_Голубой" Click="lightblue"/>
+                <MenuItem Header="_Синий" Click="blue"/>
+                <MenuItem Header="_Фиолетовый" Click="fiolet"/>
+                <Separator />
+                <MenuItem Header="_Разработчик" Click="mess"/>
+                <Separator />
+                <MenuItem Header="_Закрыть" Click="clo" />
+            </MenuItem>
+
+        </Menu>
+        <ToolBar Height="166" Width="385">
+            <Button Click="mess">
+                <Image Source="images\razrab.png" Height="155" Width="170" RenderTransformOrigin="0.741,0.5" MouseEnter="mousemove"/>
+            </Button>
+            <Button Click="clo">
+                <Image Source="images\exit.png" Height="155" Width="168" RenderTransformOrigin="0.741,0.5"  MouseEnter="MouseEnter"/>
+
+            </Button>
+        </ToolBar>
+        <ToolBar Height="139" Width="644">
+            <Button Click="red">
+                <Image Source="images\red.png" Height="122" Width="118" MouseEnter="Image1_MouseEnter"/>
+
+            </Button>
+            <Button Click="orange">
+                <Image Source="images\orange.png" Height="122" Width="118" MouseEnter="Image2_MouseEnter"/>
+            </Button>
+            <Button Click="yellow">
+                <Image Source="images\yellow.png" Height="122" Width="118"  MouseEnter="Image3_MouseEnter"/>
+            </Button>
+            <Button Click="lightblue">
+                <Image Source="images\blue.png" Height="122" Width="118" MouseEnter="Image4_MouseEnter"/>
+            </Button>
+            <Button Click="rose">
+                <Image Source="images\rose.png" Height="122" Width="118" MouseEnter="Image5_MouseEnter"/>
+            </Button>
+        </ToolBar>
+        <StatusBar x:Name="CursorPosition" Margin="50" >
+            <TextBlock x:Name="one" Text="" />
+            <StatusBarItem HorizontalAlignment="Right" >
+                <TextBlock x:Name="two" Text="" />
+            </StatusBarItem>
+        </StatusBar>
+    </StackPanel>
+</Window>

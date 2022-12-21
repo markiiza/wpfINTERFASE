@@ -1,0 +1,16 @@
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\bin\Debug\zadanoeone.exe.config
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\bin\Debug\zadanoeone.exe
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\bin\Debug\zadanoeone.pdb
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\MainWindow.g.cs
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\App.g.cs
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone_MarkupCompile.cache
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone_MarkupCompile.lref
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\MainWindow.baml
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.g.resources
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.Properties.Resources.resources
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.csproj.GenerateResource.cache
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.exe
+C:\Users\307-04\Documents\liiiiizzz\zadanoeone\obj\Debug\zadanoeone.pdb
